@@ -11,7 +11,7 @@ Inicio
    se ((renda >= 3000.00) E (restricao = 0))entao
    escreval("EMPRESTIMO APROVADO: ", "VERDADEIRO")
    senao
-   escreval("EMPRESTIMO N√O APROVADO ", "FALSO")
+   escreval("EMPRESTIMO N√ÉO APROVADO ", "FALSO")
    fimse
 
 Fimalgoritmo
